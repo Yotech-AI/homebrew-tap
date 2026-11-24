@@ -10,8 +10,8 @@
 class Hersir < Formula
   desc "Talk to one Chief that runs a team of AI coding agents through your board"
   homepage "https://hersir.dev"
-  url "https://github.com/Yotech-AI/hersir/releases/download/v0.20.0/hersir-0.20.0-macos-arm64.tar.gz"
-  sha256 "ca0ff030a89a5b17f92dadef1eb282266b41d8005584885221c4c157e73d63b2"
+  url "https://github.com/Yotech-AI/hersir/releases/download/v0.20.1/hersir-0.20.1-macos-arm64.tar.gz"
+  sha256 "ccf71eb4702dd055f1e5ca507c94ad526730e97ed0ead8678eeadb5011b049e0"
   license "Apache-2.0"
 
   livecheck do
